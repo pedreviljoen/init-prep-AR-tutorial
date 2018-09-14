@@ -2,8 +2,8 @@
 Complete this tutorial to learn the basics of rendering 3D Text, passing props to Viro scenes, and to become familiar with the project structure we will be using on the day. 
 
 After checking out the branch, run 
-```
-sudo npm install
+```shell
+$ sudo npm install
 ```
 to ensure you have all the required dependancies installed. 
 
