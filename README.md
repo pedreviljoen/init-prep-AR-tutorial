@@ -1,4 +1,7 @@
 # Init Prep Tutorial - Viro React
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/pedreviljoen/init-prep-AR-tutorial.svg)](https://greenkeeper.io/)
+
 Complete this tutorial to learn the basics of rendering 3D Text, passing props to Viro scenes, and to become familiar with the project structure we will be using on the day. 
 
 After checking out the branch, run 
