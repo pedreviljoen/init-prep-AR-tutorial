@@ -11,7 +11,7 @@
   "dependencies": {
     "crypto-js": "^3.1.9-1",
     "ngrok": "^3.0.1",
-    "react-native": "0.60.4",
+    "react-native": "0.62.1",
     "react": "16.9.0",
     "react-native-paper": "^3.0.0",
     "react-native-vector-icons": "^6.1.0",
